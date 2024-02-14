@@ -3,7 +3,7 @@
 This repository contains scripts and data to estimate census population size of *Acanthaster* cf. *solaris* (Crown-of-Thorns Starfish) on the GBR.
 Code and data are needed to reproduce the results shown in:
 
-**Popovic I, Bergeron LA, Bozec Y-M, Waldvogel A-M, Howitt SM, Damjanovic K, Patel F, Cabrera MG, Wörheide G, Uthicke S, Riginos C** (2024) High germline mutation rates, but not extreme population outbreaks, influence genetic diversity in a keystone coral predator. *PLOS Genetics*.
+[**Popovic I, Bergeron LA, Bozec Y-M, Waldvogel A-M, Howitt SM, Damjanovic K, Patel F, Cabrera MG, Wörheide G, Uthicke S, Riginos C** (2024) High germline mutation rates, but not extreme population outbreaks, influence genetic diversity in a keystone coral predator. *PLOS Genetics* 20(2): e1011129.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011129)
 
 ## Instructions
 
